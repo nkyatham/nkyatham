@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NITHIN
-- 👀 I’m interested in Machine Learning, Data Science, NLP, Computer Vision
+- 👀 I’m interested in Machine Learning, Data Science, NLP, Computer Vision, Deep Learning
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on writing research papers and research
 - 📫 How to reach me? mail - nitin.kyatham@gmail.com
